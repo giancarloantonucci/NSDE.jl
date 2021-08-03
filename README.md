@@ -8,6 +8,7 @@ NSDE contains the following packages:
 - [`RungeKutta.jl`](https://github.com/antonuccig/RungeKutta.jl)
 - [`LinearMultistep.jl`](https://github.com/antonuccig/LinearMultistep.jl)
 - [`TimeParallel.jl`](https://github.com/antonuccig/TimeParallel.jl)
+- [`MovingWindow.jl`](https://github.com/antonuccig/MovingWindow.jl)
 - [`FiniteDifference.jl`](https://github.com/antonuccig/FiniteDifference.jl)
 - [`FiniteVolume.jl`](https://github.com/antonuccig/FiniteVolume.jl)
 - [`FiniteElement.jl`](https://github.com/antonuccig/FiniteElement.jl)
