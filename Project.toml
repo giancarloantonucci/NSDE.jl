@@ -3,6 +3,18 @@ uuid = "8b1f8ecc-e32b-494c-997c-db9601ec13b0"
 authors = ["Giancarlo A. Antonucci"]
 version = "0.1.0"
 
+[deps]
+FiniteDifference = "9c7fe8d8-df9d-4a77-bdda-881a0445ecd8"
+FiniteElement = "a58fbd7b-e7e6-4daf-9508-69c8f236a93e"
+FiniteVolume = "16f6cd05-688a-40a2-95c3-6de21e7a501e"
+LinearMultistep = "6991faac-6e0a-407a-9214-ea0dabeacbe6"
+MovingWindow = "90d73e86-9dda-4e5f-94e6-0228ced3acd1"
+NSDEBase = "5aa61ba9-7752-4810-b2ec-484f26c3f007"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
+RungeKutta = "3978d399-9848-4322-9a48-ca26b732c7dc"
+Spectral = "9c6ec0cf-e1e6-49b0-95e1-48e6c73620bf"
+TimeParallel = "be6fae49-30d2-4092-b236-0bef8b98bcec"
+
 [compat]
 julia = "1"
 
