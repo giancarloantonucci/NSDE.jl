@@ -1,4 +1,4 @@
-![NSDE.jl](imgs/nsde-logo.svg)
+# NSDE.jl
 
 A Julia package for the numerical solution of differential equations.
 
